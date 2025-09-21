@@ -6,3 +6,5 @@ scikit-learn
 jupyter
 ipykernel
 streamlit
+xgboost
+imbalanced-learn

@@ -1,6 +1,3 @@
-Absolutely ✅ — here’s a **comprehensive `README.md`** you can copy-paste directly into your repo. I’ve written it in a clean, professional way so it’s GitHub-ready.
-
----
 
 # 💳 Credit Card Fraud Detection
 
@@ -193,5 +190,3 @@ Developed by **Srikanth Gali**
 ---
 
 ✨ *Fraud detection is not about catching every fraudulent transaction, but about minimizing loss while keeping false alarms low.*
-
----

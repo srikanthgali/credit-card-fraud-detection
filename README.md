@@ -133,7 +133,8 @@ Here’s a quick demo of the fraud detection app in action:
 
 *(If GIF is too large, replace with a screenshot instead)*  
 
-![Screenshot Description](assets/screenshot.png)
+![Screenshot Description](assets/non_fraud_screenshot.png)
+![Screenshot Description](assets/fraud_screenshot.png)
 
 ---
 

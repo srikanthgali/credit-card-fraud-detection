@@ -33,10 +33,10 @@ class Preprocessor:
         """
         X_copy = X.copy()
         if "Amount" in X_copy.columns:
-            X_copy["scaled_amount"] = self.amount_scaler.transform(X_copy[["Amount"]])
+            X_copy["scaled_amount"] = X_copy[["Amount"]]
             X_copy = X_copy.drop(columns=["Amount"])
         if "Time" in X_copy.columns:
-            X_copy["scaled_time"] = self.time_scaler.transform(X_copy[["Time"]])
+            X_copy["scaled_time"] = X_copy[["Time"]]
             X_copy = X_copy.drop(columns=["Time"])
         return X_copy
 

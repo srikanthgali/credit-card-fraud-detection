@@ -136,7 +136,7 @@ Here’s a quick demo of the fraud detection app in action:
 
 *(If GIF is too large, replace with a screenshot instead)*  
 
-![App Screenshot](assets/screenshot.png)  
+![Screenshot Description](assets/screenshot.png)
 
 ---
 
@@ -185,7 +185,7 @@ Basic steps (EC2 example):
 
 ## 👤 Author
 
-Developed by **\[Your Name]**
+Developed by **Srikanth Gali**
 
 * 💼 [LinkedIn](https://www.linkedin.com/in/srikanth-gali/)
 * 🐙 [GitHub](https://github.com/srikanthgali/)
